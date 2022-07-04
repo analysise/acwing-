@@ -292,5 +292,7 @@ export class Player extends ACGAMEOBJECT{
       }
     }
     this.frame_current_cnt++;
+
+    
   }
 }
